@@ -46,5 +46,5 @@ function mostrar()
     promedio = acumuladorNotas / contadorNotas;
 
     alert("El promedio de las notas totales es: " + promedio.toFixed(2) + "\nLa nota más baja es: " + notaBaja +
-            "\nLa cantidad de varones que su nota es mayor o igual a 6 es: " + contadorVaronMax6);
+    "\nLa cantidad de varones que su nota es mayor o igual a 6 es: " + contadorVaronMax6);
 }
